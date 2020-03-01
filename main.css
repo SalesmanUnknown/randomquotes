@@ -46,3 +46,18 @@ header h1{
     text-align: center;
     margin-top: 5%;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+.lightenz{
+    -webkit-text-fill-color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #16101A;
+}  
